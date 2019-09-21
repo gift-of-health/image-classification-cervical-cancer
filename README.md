@@ -16,3 +16,6 @@ Using multiclass classification, OVO and OVA
 
 * CNN feature maps from a previously trained neural network
 * CNN feature maps from an own neural network
+### Dataset available at 
+* kaggle competitions download -c intel-mobileodt-cervical-cancer-screening
+* https://github.com/kaggle/kaggle-api
